@@ -106,5 +106,5 @@ dist
 .editorconfig
 
 # IntelliJ project files
-.idea/
+.idea/*
 *.iml
